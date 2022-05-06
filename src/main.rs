@@ -25,6 +25,7 @@ fn main() {
     println!("practice_0304: {}", answer);
 
     //
+
     println!();
     println!("##### day 1 #####");
     println!();
@@ -32,6 +33,18 @@ fn main() {
         &std::fs::read_to_string("inputs/puzzle_01-input.txt").unwrap(),
     );
     println!("puzzle_01: {}", answer);
+
+    //
+
+    println!();
+    println!("##### day 2 #####");
+    println!();
+    let answer = codingquest::puzzle_02::solve(
+        &std::fs::read_to_string("inputs/puzzle_02-input.txt").unwrap(),
+    );
+    println!("puzzle_02: {}", answer);
+
+    //
 
     println!();
     println!("##### day 5 #####");

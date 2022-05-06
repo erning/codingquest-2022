@@ -1,4 +1,5 @@
 pub mod puzzle_01;
+pub mod puzzle_02;
 pub mod puzzle_05;
 
 pub mod practice_0228;

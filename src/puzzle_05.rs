@@ -53,7 +53,7 @@ pub fn solve(input: &str) -> String {
             prev = p.to_string();
         }
         let mined = mine(s, &prev);
-        println!("{}", record[0]);
+        println!("  * {}", record[0]);
         println!("    m: {}", mined.0);
         println!("    p: {}", prev);
         println!("    h: {}", mined.1);

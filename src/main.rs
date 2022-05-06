@@ -27,7 +27,6 @@ fn main() {
     //
 
     println!();
-    println!("##### puzzle #####");
     println!();
     let answer = codingquest::puzzle_01::solve(
         &std::fs::read_to_string("inputs/puzzle_01-input.txt").unwrap(),
@@ -53,10 +52,9 @@ fn main() {
     println!("puzzle_04: {}", answer);
 
     //
-    println!();
+    println!("puzzle_05: mining, it takes minutes ...");
     let answer = codingquest::puzzle_05::solve(
         &std::fs::read_to_string("inputs/puzzle_05-input.txt").unwrap(),
     );
-    println!();
     println!("puzzle_05: {}", answer);
 }

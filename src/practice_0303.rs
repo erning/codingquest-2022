@@ -15,7 +15,7 @@ pub fn solve(input: &str) -> i32 {
     let m = grid.len() - 1;
 
     let mut err_y = m;
-    let mut cs_y =0;
+    let mut cs_y = 0;
     for y in 0..m {
         let mut cs = 0;
         for x in 0..n {

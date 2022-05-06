@@ -26,6 +26,7 @@ fn parse_input(input: &str) -> String {
     }
     s
 }
+
 fn parse_table() -> HashMap<String, char> {
     let txt = std::fs::read_to_string("inputs/practice_0304-table.txt").unwrap();
     txt.lines()

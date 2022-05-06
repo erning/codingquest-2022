@@ -23,4 +23,13 @@ fn main() {
         &std::fs::read_to_string("inputs/practice_0304-input.txt").unwrap(),
     );
     println!("practice_0304: {}", answer);
+
+    println!();
+    println!("##### day 5 #####");
+    println!();
+    let answer = codingquest::puzzle_05::solve(
+        &std::fs::read_to_string("inputs/puzzle_05-input.txt").unwrap(),
+    );
+    println!("");
+    println!("puzzle_05: {}", answer);
 }

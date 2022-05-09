@@ -57,4 +57,10 @@ fn main() {
         &std::fs::read_to_string("inputs/puzzle_05-input.txt").unwrap(),
     );
     println!("puzzle_05: {}", answer);
+
+    //
+    let answer = codingquest::puzzle_06::solve(
+        &std::fs::read_to_string("inputs/puzzle_06-input.txt").unwrap(),
+    );
+    println!("puzzle_06: {:?}", answer);
 }

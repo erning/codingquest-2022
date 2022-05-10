@@ -77,4 +77,5 @@ puzzle_05: mining, it takes minutes ...
     h: 000000b60719f04f18d3ae69d12449e48d25dbb1d2e0514ff4d8decede19f728
 puzzle_05: 000000b60719f04f18d3ae69d12449e48d25dbb1d2e0514ff4d8decede19f728
 puzzle_06: [7745743850156157]
+puzzle_07: 154807700
 ```

@@ -78,4 +78,9 @@ puzzle_05: mining, it takes minutes ...
 puzzle_05: 000000b60719f04f18d3ae69d12449e48d25dbb1d2e0514ff4d8decede19f728
 puzzle_06: [7745743850156157]
 puzzle_07: 154807700
+puzzle_08: Hello! I hope you are enjoying your trip to Ral'Malgor. Don't
+           forget to pick up some souvenirs for the family while you are
+           there. Perhaps send mom a postcard as well? Also make sure to
+           take some great photos! See you soon!! ... by the way the answer
+           to the question is 'codingquest2022' (without the quotes).
 ```

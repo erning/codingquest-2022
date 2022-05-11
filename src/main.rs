@@ -69,4 +69,10 @@ fn main() {
         &std::fs::read_to_string("inputs/puzzle_07-input.txt").unwrap(),
     );
     println!("puzzle_07: {:?}", 20000 * 100000 - answer);
+
+    //
+    let answer = codingquest::puzzle_08::solve(
+        &std::fs::read_to_string("inputs/puzzle_08-input.txt").unwrap(),
+    );
+    println!("puzzle_08: {}", answer);
 }

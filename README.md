@@ -1,27 +1,16 @@
 # codingquest 2022
 
-### Practices:
-
-```
-0228: 95
-0301: cookies
-0302: 33
-0303: 297
-0304: THANKYOU_FOR_HELPING_WITH_THE_SOFT_LAUNCH.
-      I_HOPE_YOU_ENJOYED_IT.
-      YOUR_FEEDBACK_TO_IMPROVE_THE_PROBLEMS_AND_PLATFORM_WILL_BE_MUCH_APPRECIATED.
-      WISHING_YOU_EVERY_SUCCESS_IN_YOUR_COMPUTER_SCIENCE_FUTURE.
-      OH_AND_THE_ANSWER_IS_42_MULTIPLIED_BY_42.
-      REGARDS_PAUL_BAUMGARTEN.
-```
-
 ### Puzzles:
 
 ```
-puzzle_01: 6248
-puzzle_02: 56
-puzzle_03: 64579603
-puzzle_04: 21630678
+puzzle_09: 6723
+puzzle_08: Hello! I hope you are enjoying your trip to Ral'Malgor. Don't
+           forget to pick up some souvenirs for the family while you are
+           there. Perhaps send mom a postcard as well? Also make sure to
+           take some great photos! See you soon!! ... by the way the answer
+           to the question is 'codingquest2022' (without the quotes).
+puzzle_07: 154807700
+puzzle_06: [7745743850156157]
 puzzle_05: mining, it takes minutes ...
   * Apple Watch 2025
     m: 4675746
@@ -76,11 +65,24 @@ puzzle_05: mining, it takes minutes ...
     p: 000000de493d017390bac2e5ea15d2e0511b964a99a133986387e2e627dddce2
     h: 000000b60719f04f18d3ae69d12449e48d25dbb1d2e0514ff4d8decede19f728
 puzzle_05: 000000b60719f04f18d3ae69d12449e48d25dbb1d2e0514ff4d8decede19f728
-puzzle_06: [7745743850156157]
-puzzle_07: 154807700
-puzzle_08: Hello! I hope you are enjoying your trip to Ral'Malgor. Don't
-           forget to pick up some souvenirs for the family while you are
-           there. Perhaps send mom a postcard as well? Also make sure to
-           take some great photos! See you soon!! ... by the way the answer
-           to the question is 'codingquest2022' (without the quotes).
+puzzle_04: 21630678
+puzzle_03: 64579603
+puzzle_02: 56
+puzzle_01: 6248
 ```
+
+### Practices:
+
+```
+0304: THANKYOU_FOR_HELPING_WITH_THE_SOFT_LAUNCH.
+      I_HOPE_YOU_ENJOYED_IT.
+      YOUR_FEEDBACK_TO_IMPROVE_THE_PROBLEMS_AND_PLATFORM_WILL_BE_MUCH_APPRECIATED.
+      WISHING_YOU_EVERY_SUCCESS_IN_YOUR_COMPUTER_SCIENCE_FUTURE.
+      OH_AND_THE_ANSWER_IS_42_MULTIPLIED_BY_42.
+      REGARDS_PAUL_BAUMGARTEN.
+0303: 297
+0302: 33
+0301: cookies
+0228: 95
+```
+

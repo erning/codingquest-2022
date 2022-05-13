@@ -7,6 +7,7 @@ pub mod puzzle_06;
 pub mod puzzle_07;
 pub mod puzzle_08;
 pub mod puzzle_09;
+pub mod puzzle_10;
 
 pub mod practice_0228;
 pub mod practice_0301;

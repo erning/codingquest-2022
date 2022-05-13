@@ -1,5 +1,10 @@
 fn main() {
     //
+    let answer = codingquest::puzzle_10::solve("inputs/puzzle_10-input.png", true);
+    println!("puzzle_10: {}", answer);
+    println!();
+
+    //
     let answer = codingquest::puzzle_09::solve(
         &std::fs::read_to_string("inputs/puzzle_09-input.txt").unwrap(),
     );
